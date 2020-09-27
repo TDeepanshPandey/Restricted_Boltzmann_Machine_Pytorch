@@ -22,3 +22,4 @@ My Certificate URL is *https://www.udemy.com/certificate/UC-3NCHVRX9*
 **Testing Model**
 
 ![alt_text](https://github.com/TDeepanshPandey/Restricted_Boltzmann_Machine_Pytorch/blob/master/test_loss.png)
+.
